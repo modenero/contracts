@@ -1,14 +1,16 @@
-pragma solidity ^0.5.10;
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.12;
 
 /*******************************************************************************
  *
- * Copyright (c) 2019 Modenero Corp.
+ * Copyright (c) 2019-2022 Modenero Corp.
  * Released under the MIT License.
  *
  * ModeneroDb - An eternal database, providing a sustainable storage solution
  *              for use throughout the upgrade lifecycle of managing contracts.
  *
- * Version 19.12.7
+ * Version 22.2.28
  *
  * https://modenero.com
  * support@modenero.com
@@ -24,7 +26,7 @@ contract Owned {
 
     event OwnershipTransferred(address indexed _from, address indexed _to);
 
-    constructor() public {
+    constructor() {
         owner = msg.sender;
     }
 
@@ -63,7 +65,7 @@ contract ModeneroDb is Owned {
 
     /**
      * @dev Only allow access from the latest version of a Modenero contract
-     *      or authorized Modnenero administrator.
+     *      or authorized Modenero administrator.
      */
     modifier onlyAuthByModenero() {
         /***********************************************************************
