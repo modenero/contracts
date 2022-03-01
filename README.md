@@ -19,7 +19,7 @@ _NOTE: We've deployed these databases to ALL of our supporting networks._
 __Avalanche | AVAX__
 
 - Mainnet - __[0x68133E0A4996D0103c2135dcD8E2084450DF66D5](https://snowtrace.io/address/0x68133e0a4996d0103c2135dcd8e2084450df66d5#code)__
-- Fuji - __[0x68133E0A4996D0103c2135dcD8E2084450DF66D5](https://testnet.snowtrace.io/address/0x68133e0a4996d0103c2135dcd8e2084450df66d5#code)__
+- FUJI - __[0x68133E0A4996D0103c2135dcD8E2084450DF66D5](https://testnet.snowtrace.io/address/0x68133e0a4996d0103c2135dcd8e2084450df66d5#code)__
 
 __Binance Smart Chain | BSC__
 
