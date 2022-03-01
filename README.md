@@ -12,7 +12,7 @@ __Our supporting networks include:__
 
 ## ModeneroDb
 
-This is an [Eternal Database](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88) that provides a sustainable storage solution for use throughout the upgrade lifecycle of managing contracts.
+This is an __[Eternal Database](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88)__ that provides a sustainable storage solution for use throughout the upgrade lifecycle of managing contracts.
 
 _NOTE: We've deployed these databases to ALL of our supporting networks._
 
@@ -23,8 +23,8 @@ __Avalanche | AVAX__
 
 __Binance Smart Chain | BSC__
 
-- Mainnet - __[]()__
-- Testnet - __[]()__
+- Mainnet - __[0x7AaCEC83e10D8F8DfDfaa4858d55b0cC29eE4795](https://bscscan.com/address/0x7aacec83e10d8f8dfdfaa4858d55b0cc29ee4795#code)__
+- Testnet - __[0x7AaCEC83e10D8F8DfDfaa4858d55b0cC29eE4795](https://testnet.bscscan.com/address/0x7aacec83e10d8f8dfdfaa4858d55b0cc29ee4795#code)__
 
 __Ethereum | ETH__
 
@@ -34,8 +34,8 @@ __Ethereum | ETH__
 
 __Fantom | FTM__
 
-- Mainnet - __[]()__
-- Testnet - __[]()__
+- Mainnet - __[0x7AaCEC83e10D8F8DfDfaa4858d55b0cC29eE4795](https://ftmscan.com/address/0x7aacec83e10d8f8dfdfaa4858d55b0cc29ee4795#code)__
+- Testnet - __[0x7AaCEC83e10D8F8DfDfaa4858d55b0cC29eE4795](https://testnet.ftmscan.com/address/0x7aacec83e10d8f8dfdfaa4858d55b0cc29ee4795#code)__
 
 __Polygon | MATIC__
 
